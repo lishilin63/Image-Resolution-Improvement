@@ -3,16 +3,6 @@
 
 ### [Full Project Description](doc/project3_desc.md)
 
-Term: Fall 2018
-
-+ Team #2
-+ Team members
-	+ Jannie Chen (mc4398)
-	+ Shilin Li   (sl4261)
-	+ Yiding Xie  (yx2443)
-	+ Yang Xing   (yx2416)
-	+ Zhibo Zhou  (zz2520)
-
 + Project objective:
 	+ Predict super-resolution images from its corresponding low-resolution images
 	+ Two models need to be implemented: baseline (GBM) and improved (XGBoost)
